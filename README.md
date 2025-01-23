@@ -30,19 +30,19 @@ Computer Engineering and Digital Technology at Intania 108, Chulalongkorn Univer
 ## :mailbox: Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="garinsitthibut@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/karin_s1" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="Discord" width="30" height="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/deee_jaaaa" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" height="30">
   </a>
 </p>
